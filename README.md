@@ -9,12 +9,12 @@
 **React E-Commerce Product List with Cart Web Page**
 
 -[Repository](https://github.com/ktqlee/React_ProductListWIthCart)
--[Live Stie](https://ktqlee.github.io/React_ProductListWIthCart/)
+-[Live Site](https://ktqlee.github.io/React_ProductListWIthCart/)
 
 **Frontend Prototype For Course Enrollment UI Design**
 
 -[Repository](https://github.com/ktqlee/UIProject_CourseEnrollmentPageFrontend/tree/main)
--[Live Stie](https://ktqlee.github.io/UIProject_CourseEnrollmentPageFrontend/)
+-[Live Site](https://ktqlee.github.io/UIProject_CourseEnrollmentPageFrontend/)
 
 <!--
 **ktqlee/ktqlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
